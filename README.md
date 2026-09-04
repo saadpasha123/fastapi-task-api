@@ -26,5 +26,8 @@ Verified endpoint testing interface via Swagger UI:
 ![Swagger UI Docs](swagger-doc.png.png)
 ## 📸 Swagger UI Verification
 
+"In-memory repository was replaced with PostgresRepository without modifying service logic or API routes."
+
+"Persistence was verified by creating tasks, running docker compose down, and confirming data survival upon restart."
 Verified endpoint testing interface via Swagger UI:
 ![Swagger UI Docs](db-viewer.png)# Verified Docker Deployment
