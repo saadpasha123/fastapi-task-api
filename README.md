@@ -27,4 +27,4 @@ Verified endpoint testing interface via Swagger UI:
 ## 📸 Swagger UI Verification
 
 Verified endpoint testing interface via Swagger UI:
-![Swagger UI Docs](db-viewer.png)
+![Swagger UI Docs](db-viewer.png)# Verified Docker Deployment
